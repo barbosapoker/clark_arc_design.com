@@ -1,0 +1,200 @@
+#clark{
+    background-image: url(../images/yvAFPDR.jpg);
+    padding: 7%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    /*main body*/ 
+}
+
+.mainheader{
+    padding-left: 2%;
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1.5cm;
+    color:rgb(0, 0, 0);
+    text-decoration:wavy;
+    background-color: antiquewhite;
+    border-radius: 250px;
+  /*index head*/  
+}
+
+li,a{
+    display:inline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration:none;
+    color: #0a0a0a;
+    font-size: 15px;
+    font-style:normal;
+    background-color:rgb(193, 228, 241);
+    border-radius: 250px;
+    margin:15px;
+}
+.button:hover{
+        background-color: rgb(109, 99, 10);
+        border-radius: 250px;
+        margin: 15px;
+
+
+/*list of link in index*/
+}
+.vid1{ 
+    margin-left: 20%;
+    margin-bottom: 2%;
+}
+
+.p1{
+    padding: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size:0.7cm;
+    color:rgb(0, 1, 83);
+    text-align: justify;
+/*paragraph on on index*/
+
+}
+
+#mainfooter{
+    size:larger;
+    font-family: initial;
+    color:rgb(253, 0, 0);
+    padding-left: 30%; 
+    background-color: azure; 
+/*copy right on index*/
+
+}
+
+#anicient{
+    padding-left: 2%;
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1.5cm;
+    color:rgb(0, 0, 0);
+    text-decoration:wavy;
+    background-color: antiquewhite;
+    border-radius: 250px;
+   /*main header in an anicient*/
+}
+.anicient{
+    background-image: url(../images/vOXodxD.jpg);
+    padding: 7%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+/*main body in anicient*/
+}
+
+#p1{
+    padding: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size:0.5cm;
+    color:rgb(53, 8, 8);
+    text-align: justify;
+/*paragraph on on anicient*/
+}
+.asian{
+    padding-left: 2%;
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1.5cm;
+    color:rgb(0, 0, 0);
+    text-decoration:wavy;
+    background-color: antiquewhite;
+    border-radius: 250px;
+   /*main header in asian*/
+}
+
+#asian{
+    background-image: url(../images/qd1ay64.jpg);
+    padding: 7%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    /*main body in asian*/
+}
+.p2{
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: azure;
+    font-size:0.5cm;
+    color:rgb(0, 0, 0);
+    text-align: justify;
+/*paragraph on on asian*/
+}
+#interior{
+    padding-left: 2%;
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1.5cm;
+    color:rgb(0, 0, 0);
+    text-decoration:wavy;
+    background-color: antiquewhite;
+    border-radius: 250px;
+   /*main header in an interior*/
+}
+.interior{
+    background-image: url(../images/INTERIOR\ DESIGN\ WALLPAPERS\ 1\ \(5\).jpg);
+    padding: 7%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+/*main body in interior*/
+}
+#p3{
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size:0.5cm;
+    background-color: azure;
+    color:rgb(53, 8, 8);
+    text-align: justify;
+/*paragraph on on interior*/
+}
+.islamic{
+    padding-left: 2%;
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1.5cm;
+    color:rgb(0, 0, 0);
+    text-decoration:wavy;
+    background-color: antiquewhite;
+    border-radius: 250px;
+   /*main header in asian*/
+}
+
+#islamic{
+    background-image: url(../images/gD8pkxl.jpg);
+    padding: 7%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    /*main body in islamic*/
+}
+.p4{
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: azure;
+    font-size:0.5cm;
+    color:rgb(0, 0, 0);
+    text-align: justify;
+/*paragraph on on islamic*/
+}
+.interiorl{
+    background-image: url(../images/Pp8rigB.jpg);
+    padding: 7%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+/*main body in interior*/
+}
+#p5{
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size:0.8cm;;
+    color:rgb(0, 0, 0);
+    text-align: justify;
+/*paragraph on on interior*/
+}
+.logo{
+    margin-right: 100%;
+    float: inline-start;
+
+}
